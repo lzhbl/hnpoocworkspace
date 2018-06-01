@@ -3,7 +3,7 @@
 # 低速复苏的
 import random
 print('Hello World!')
-# a = input('a=')
+a = input('a=')
 print (random.randint(1,100))
 ii = 89
 print(ii)
